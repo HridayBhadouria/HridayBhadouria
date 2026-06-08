@@ -41,10 +41,12 @@
 ### ⚙️ Building my own trading systems
 
 I design and run my own automated trading bots. I research and validate
-strategies in Python with a walk-forward backtesting framework I built, then
-run the ones I keep live in a dependency-free Node.js engine (strategy → risk
-sizing → broker → Telegram alerts) on an Ubuntu server under systemd. The code
-and my live strategies are private — happy to walk through the architecture.
+strategies in Python, then run the ones I keep live in a Node.js engine on an
+Ubuntu server. The repos below are the framework + a demo strategy — my live
+strategies stay private.
+
+- **[strategy-backtester](https://github.com/HridayBhadouria/strategy-backtester)** — a walk-forward backtesting framework in Python, with honest out-of-sample metrics (CAGR, drawdown, Sharpe, profit factor) and tests.
+- **[trading-bot-engine](https://github.com/HridayBhadouria/trading-bot-engine)** — a dependency-free Node.js engine (strategy → risk sizing → broker → Telegram alerts) that I deploy on Ubuntu under systemd.
 
 ### 🌱 Currently
 
