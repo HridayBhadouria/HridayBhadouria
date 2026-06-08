@@ -36,6 +36,7 @@
 - **[IoT Sensor Monitoring Dashboard](https://github.com/HridayBhadouria/iot-sensor-dashboard)** — full-stack: FastAPI + WebSocket backend and a React + TypeScript dashboard with live charts, threshold alerts, tests, Docker and CI.
 - **[Smart Energy Monitor](https://github.com/HridayBhadouria/smart-energy-monitor)** — Python machine-learning tool that forecasts household energy use and flags anomalies, with a Streamlit dashboard.
 - **[Plant Care System](https://github.com/HridayBhadouria/plant-care-system)** — FastAPI + Pydantic service with a watering-decision engine, sensor simulator and pytest suite.
+- **[Notes API](https://github.com/HridayBhadouria/notes-api)** — a clean FastAPI + Pydantic + SQLite REST service (CRUD, search, tag filtering, pagination) with a full test suite, Docker and CI.
 - **[AI Résumé Matcher](https://github.com/HridayBhadouria/ai-resume-matcher)** — Python + NLP tool that scores and ranks résumés against a job description.
 - **[Realtime Public Health Risk Mapper](https://github.com/HridayBhadouria/realtime-public-health-risk-mapper)** — Python + Streamlit dashboard aggregating live data to map public-health risks across Melbourne.
 
