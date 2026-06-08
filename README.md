@@ -38,6 +38,16 @@
 - **[AI Résumé Matcher](https://github.com/HridayBhadouria/ai-resume-matcher)** — Python + NLP tool that scores and ranks résumés against a job description.
 - **[Realtime Public Health Risk Mapper](https://github.com/HridayBhadouria/realtime-public-health-risk-mapper)** — Python + Streamlit dashboard aggregating live data to map public-health risks across Melbourne.
 
+### ⚙️ Building my own trading systems
+
+I design and run my own automated trading bots. I research and validate
+strategies in Python, then run the ones I keep live in a Node.js engine on an
+Ubuntu server. The repos below are the framework + a demo strategy — my live
+strategies stay private.
+
+- **[strategy-backtester](https://github.com/HridayBhadouria/strategy-backtester)** — a walk-forward backtesting framework in Python, with honest out-of-sample metrics (CAGR, drawdown, Sharpe, profit factor) and tests.
+- **[trading-bot-engine](https://github.com/HridayBhadouria/trading-bot-engine)** — a dependency-free Node.js engine (strategy → risk sizing → broker → Telegram alerts) that I deploy on Ubuntu under systemd.
+
 ### 🌱 Currently
 
 - Studying data structures & algorithms, cloud fundamentals and IoT systems.
