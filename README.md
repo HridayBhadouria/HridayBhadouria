@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/hriday-bhadouria-ab9272394/">
+  <a href="https://www.linkedin.com/in/hriday-bhadouria">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:hriday1806@gmail.com">
@@ -33,8 +33,10 @@
 ### 🚀 Featured projects
 
 - **[IoT Sensor Monitoring Dashboard](https://github.com/HridayBhadouria/iot-sensor-dashboard)** — full-stack: FastAPI + WebSocket backend and a React + TypeScript dashboard with live charts, threshold alerts, tests, Docker and CI.
+- **[Smart Energy Monitor](https://github.com/HridayBhadouria/smart-energy-monitor)** — Python machine-learning tool that forecasts household energy use and flags anomalies, with a Streamlit dashboard.
+- **[Plant Care System](https://github.com/HridayBhadouria/plant-care-system)** — FastAPI + Pydantic service with a watering-decision engine, sensor simulator and pytest suite.
 - **[AI Résumé Matcher](https://github.com/HridayBhadouria/ai-resume-matcher)** — Python + NLP tool that scores and ranks résumés against a job description.
-- **Smart Medication Reminder** — Arduino caretaker device built for my Embedded Systems unit.
+- **[Realtime Public Health Risk Mapper](https://github.com/HridayBhadouria/realtime-public-health-risk-mapper)** — Python + Streamlit dashboard aggregating live data to map public-health risks across Melbourne.
 
 ### 🌱 Currently
 
